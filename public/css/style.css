@@ -21,11 +21,12 @@ body {
   border-style: solid;
   margin-bottom: 5px;
   padding: 2px;
-  background-color: rgb(62, 103, 143);
+  background-color: rgb(77, 94, 125);
 }
 
 .blogDescMain {
   font-weight: 700;
+  color: gainsboro;
 }
 
 .blogDescTwo {
