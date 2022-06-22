@@ -19,6 +19,7 @@ body {
 
 .blogDesc {
   border-style: solid;
+  border-color: gainsboro;
   margin-bottom: 5px;
   padding: 2px;
   background-color: rgb(77, 94, 125);
