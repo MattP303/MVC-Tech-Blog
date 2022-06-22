@@ -87,10 +87,10 @@ body {
 }
 
 a:link {
-  color: rgb(62, 103, 143);
+  color: gainsboro;
 }
 a:visited {
-  color: rgb(62, 103, 143);
+  color: gainsboro;
 }
 
 .login {
